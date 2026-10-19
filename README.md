@@ -98,7 +98,4 @@ Plant care depends on consistent monitoring of soil moisture and light. Manual m
 - Additional sensors for pH, nutrients and temperature
 - Voice assistant integration (Alexa, Google Assistant)
 - Scaling to greenhouses, smart cities and large-scale farming
-- 
-## Note
 
-This repository contains the project documentation only. The Python source code is not included.
